@@ -1,0 +1,31 @@
+Participante;Equipo1;Gana1;Empate;Gana2;Equipo2
+Mariana;Argentina;X;;;Arabia Saudita
+Mariana;Polonia;;X;;Mexico
+Mariana;Argentina;X;;;Mexico
+Mariana;Arabia Saudita;;;X;Polonia
+Mariana;Argentina;X;;;Polonia
+Mariana;Arabia Saudita;;;X;Mexico
+Mariana;Argentina;X;;;Australia
+Mariana;Argentina;X;;;Paises Bajos
+Mariana;Argentina;X;;;Croacia
+Mariana;Argentina;X;;;Francia
+Pedro;Argentina;X;;;Arabia Saudita
+Pedro;Polonia;;;X;Mexico
+Pedro;Argentina;X;;;Mexico
+Pedro;Arabia Saudita;;X;;Polonia
+Pedro;Argentina;X;;;Polonia
+Pedro;Arabia Saudita;;X;;Mexico
+Pedro;Argentina;X;;;Australia
+Pedro;Argentina;;X;;Paises Bajos
+Pedro;Argentina;X;;;Croacia
+Pedro;Argentina;X;;;Francia
+Facundo;Argentina;;;X;Arabia Saudita
+Facundo;Polonia;;;X;Mexico
+Facundo;Argentina;X;;;Mexico
+Facundo;Arabia Saudita;;;X;Polonia
+Facundo;Argentina;X;;;Polonia
+Facundo;Arabia Saudita;;;X;Mexico
+Facundo;Argentina;X;;;Australia
+Facundo;Argentina;;;X;Paises Bajos
+Facundo;Argentina;X;;;Croacia
+Facundo;Argentina;;X;;Francia

@@ -1,0 +1,14 @@
+modelo\Ronda.class
+org\grupo14\Main.class
+exceptions\NoEsNumeroEnteroException.class
+exceptions\NingunoOMasDeUnEquipoPronosticadoException.class
+modelo\Equipo.class
+modelo\Fase.class
+modelo\Pronostico.class
+exceptions\NumeroIncorrectoDeCamposException.class
+servicios\ArchivoPronosticos.class
+modelo\ResultadoEnum.class
+servicios\LectorArchivos.class
+servicios\ArchivoResultados.class
+modelo\Participante.class
+modelo\Partido.class
